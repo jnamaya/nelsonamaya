@@ -1,4 +1,4 @@
 nelsonamaya
 ===========
 
-this repo is for a new site built with Jekyll
+thi is a a page to show Ramnik how this work
